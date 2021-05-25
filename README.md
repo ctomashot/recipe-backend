@@ -12,4 +12,4 @@ Install Instructions:
 *
 
 Run bundle install
-Authors: Cole Tomashot
+Authors: Cole Tomashot and Ronalyssa Loiseau
